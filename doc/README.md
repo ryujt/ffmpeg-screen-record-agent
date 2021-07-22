@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/ryu.png
 heroText: 10bun.tv
-tagline: FFmpeg 기반 Windows 프로그램용 화면녹화 모듈 개발
+tagline: FFmpeg를 이용한 화면녹화 모듈 개발
 ---
 
 
@@ -26,5 +26,6 @@ tagline: FFmpeg 기반 Windows 프로그램용 화면녹화 모듈 개발
 
 
 ## 기타
+* [소스코드](https://github.com/ryujt/ffmpeg-screen-record-agent)
 * [녹화 에이전트 다운로드](./downloads/sr_agent.zip)
 * [녹화 에이전트 프로토콜 테스트 프로그램](./downloads/test_protocols.exe)
